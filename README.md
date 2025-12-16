@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juri
+## Hi, I'm Juri 👋
 - 👀 I’m interested in mobile and web development and more
 - 🌱 I work with several programming languages, including PHP, Go, and Dart (Flutter). I’m currently learning Java and Swift
 
